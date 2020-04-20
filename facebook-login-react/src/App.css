@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  display: table;
+  margin: 100px auto;
+  background-color: #dddddd;
+  border: 1px solid #000000;
+  padding : 20px
+}
